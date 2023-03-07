@@ -1,5 +1,5 @@
 # Introduction
-This is the public repo for the paper of PAKDD 2023: **NCU-AutoHyp**:A Simple Yet Effective Scheme for Informative Frame Selection in Laryngoscopic Videos
+This is the public repo for the paper of XXXX : ``
 
 This work has been accepted to XXX with the Arxiv version of the paper here. Please contact YYY or ZZZ if you have any questions.
 
